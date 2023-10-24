@@ -1,0 +1,11 @@
+body {
+    /* background-color: #76a9e0; */
+    background-image: url("../img/a.jpg");
+    background-color : skyblue;
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
